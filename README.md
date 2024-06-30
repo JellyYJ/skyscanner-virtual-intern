@@ -17,3 +17,22 @@ This task was to creat a Dropwizard microservice to assist users in finding car 
 
 - Process HTTP requests.
 - Understand micorservice architecture.
+
+
+## Task 3: Create an Andriod app
+
+This task was to creat a prototype to show off the user interface (UI) for users to view their flight intineraries on their phones.
+
+#### Takeaways:
+
+- Develope a proof of concept (PoC) for a mobile application.
+- Create UI for Flightscry using Backpack.
+
+
+## Task 4: UX/UI Deign
+
+#### Takeaways:
+
+- Use Figma for UI design.
+- Address value, usability, and feasibility risks.
+
